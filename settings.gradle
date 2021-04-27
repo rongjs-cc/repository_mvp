@@ -1,0 +1,2 @@
+include ':app', ':basemodule', ':demomodule', ':demo'
+rootProject.name='android_mvp'
